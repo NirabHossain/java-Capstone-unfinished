@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FirstRatings
+comment1.params=fname
+comment1.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment2.params=
+comment2.target=void\ testLoadMovies()
+comment3.params=movies
+comment3.target=void\ countDirectorMap(java.util.ArrayList)
+comment4.params=filename
+comment4.target=java.util.HashMap\ loadRaters(java.lang.String)
+comment5.params=
+comment5.target=void\ testLoadRaters()
+numComments=6
